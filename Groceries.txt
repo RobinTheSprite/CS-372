@@ -1,6 +1,7 @@
 A grocery list, where my clueless computer scientist housemate will find it:
 
--Red Bull
+-Rockstar
 -Ketchup
 -Doritos
 -Sriracha
+-Mayo
